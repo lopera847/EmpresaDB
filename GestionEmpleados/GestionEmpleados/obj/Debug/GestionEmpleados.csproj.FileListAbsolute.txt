@@ -1,0 +1,11 @@
+C:\Users\Juan Lopera\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\GestionEmpleados.csproj.AssemblyReference.cache
+C:\Users\Juan Lopera\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\GestionEmpleados.Form1.resources
+C:\Users\Juan Lopera\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\GestionEmpleados.Properties.Resources.resources
+C:\Users\Juan Lopera\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\GestionEmpleados.csproj.GenerateResource.cache
+C:\Users\Juan Lopera\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\GestionEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Juan Lopera\source\repos\GestionEmpleados\GestionEmpleados\bin\Debug\GestionEmpleados.exe.config
+C:\Users\Juan Lopera\source\repos\GestionEmpleados\GestionEmpleados\bin\Debug\GestionEmpleados.exe
+C:\Users\Juan Lopera\source\repos\GestionEmpleados\GestionEmpleados\bin\Debug\GestionEmpleados.pdb
+C:\Users\Juan Lopera\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\GestionEmpleados.exe
+C:\Users\Juan Lopera\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\GestionEmpleados.pdb
+C:\Users\Juan Lopera\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\GestionEmpleados.exe.config
